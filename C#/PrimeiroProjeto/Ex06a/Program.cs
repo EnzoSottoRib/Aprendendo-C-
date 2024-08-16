@@ -4,34 +4,35 @@
 //3- ordenar os valores bubble sort
 //4- printar eles ordenados
 
-using System.Collections.Specialized;
+//using System.Collections.Specialized;
+//public class Ex06a{
+    //public void Executar(){
+        Random random = new Random();
+        int[] vetor = new int[10];
+        for(int i = 0; i < vetor.Length; i++){
+            vetor[i] = random.Next(1000);
+            Console.Write(vetor[i] + " ");
+        }
 
-Random random = new Random();
-int[] vetor = new int[10];
-for(int i = 0; i < vetor.Length; i++){
-    vetor[i] = random.Next(1000);
-    Console.Write(vetor[i] + " ");
-}
+        int temp = 0;
+        for(int i = 0; i< vetor.Length - 1; i++){
 
-int temp = 0;
-int cont = 0;
-for(int i = 0; i< vetor.Length; i++){
+            for(int j=0; j<vetor.Length - i - 1; j++){
+                if(vetor[j] > vetor[j+1]){
+                temp = vetor[j];
+                vetor[j] = vetor[j+1];
+                vetor[j+1] = temp;
+            }
+            }
+            }
+            
+            
 
-    for(int j=0; j<vetor.Length; j++){
-        while (cont < 9){
-        if(vetor[j] > vetor[j+1]){
-        temp = vetor[j];
-        vetor[j] = vetor[j+1];
-        vetor[j+1] = temp;
-    }
-    cont++;
-    }
-    }
-    
-    
-}
 
-Console.Write("Ordenado ↓\n\n");
-for(int i= 0; i< vetor.Length; i++){
-    Console.Write(vetor[i] + " ");
-}
+        Console.Write("Ordenado ↓\n\n");
+        for(int i= 0; i< vetor.Length; i++){
+            Console.Write(vetor[i] + " ");
+        }
+    //}
+//}
+
