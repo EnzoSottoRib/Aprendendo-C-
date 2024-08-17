@@ -3,3 +3,13 @@ D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debu
 D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfo.cs
 D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\Ex03.csproj.CoreCompileInputs.cache
 D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\Ex03.sourcelink.json
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\bin\Debug\net8.0\Ex03.exe
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\bin\Debug\net8.0\Ex03.deps.json
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\bin\Debug\net8.0\Ex03.runtimeconfig.json
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\bin\Debug\net8.0\Ex03.dll
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\bin\Debug\net8.0\Ex03.pdb
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\Ex03.dll
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\refint\Ex03.dll
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\Ex03.pdb
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\Ex03.genruntimeconfig.cache
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\Ex03\obj\Debug\net8.0\ref\Ex03.dll
