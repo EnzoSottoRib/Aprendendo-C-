@@ -4,7 +4,6 @@
 //3- ordenar os valores bubble sort
 //4- printar eles ordenados
 
-//using System.Collections.Specialized;
 //public class Ex06a{
     //public void Executar(){
         Random random = new Random();

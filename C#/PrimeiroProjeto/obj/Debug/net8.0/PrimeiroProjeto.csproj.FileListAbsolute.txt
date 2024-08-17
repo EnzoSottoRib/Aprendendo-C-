@@ -12,3 +12,4 @@ D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\obj\Debug\net
 D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
 D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
 D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+D:\Faculdade\Desenvolvimento de Software Visual\C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
